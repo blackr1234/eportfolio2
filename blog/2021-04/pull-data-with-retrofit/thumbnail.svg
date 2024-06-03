@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148.167mm" height="37mm" version="1.2" baseProfile="tiny">
+	<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+		<g fill="#48b983" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)">
+			<path vector-effect="none" fill-rule="evenodd" d="M0,0 L580,0 L580,81 L0,81 L0,0" />
+		</g>
+		<g fill="#f6f6f6" fill-opacity="1" stroke="#f6f6f6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+			<text fill="#f6f6f6" fill-opacity="1" stroke="none" xml:space="preserve" x="20" y="57" font-family="Arial" font-size="50" font-weight="100" font-style="normal">Retrofit</text>
+		</g>
+		<g fill="#48b983" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)">
+			<path vector-effect="none" fill-rule="evenodd" d="M0,80 L580,80 L580,140 L0,140 L0,80" />
+		</g>
+		<g fill="#eeeeee" fill-opacity="1" stroke="#eeeeee" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+			<text fill="#eeeeee" fill-opacity="1" stroke="none" xml:space="preserve" x="20" y="119" font-family="Arial" font-size="26" font-weight="100" font-style="normal">A type-safe </text>
+		</g>
+		<g fill="#eeeeee" fill-opacity="1" stroke="#eeeeee" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+			<text fill="#eeeeee" fill-opacity="1" stroke="none" xml:space="preserve" x="154.578" y="119" font-family="Arial" font-size="26" font-weight="400" font-style="normal">HTTP client</text>
+		</g>
+		<g fill="#eeeeee" fill-opacity="1" stroke="#eeeeee" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+			<text fill="#eeeeee" fill-opacity="1" stroke="none" xml:space="preserve" x="289.109" y="119" font-family="Arial" font-size="26" font-weight="100" font-style="normal"> for Android and Java</text>
+		</g>
+		<g fill="#eeeeee" fill-opacity="1" stroke="#eeeeee" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+			<text fill="#eeeeee" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="Arial" font-size="26" font-weight="100" font-style="normal" />
+		</g>
+	</g>
+</svg>
